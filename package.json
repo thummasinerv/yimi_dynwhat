@@ -1,11 +1,11 @@
 {
-  "name": "demonoid",
-  "version": "1.0.2",
-  "author": "trucaalex9",
+  "name": "yimi_dynwhat",
+  "version": "1.0.0",
+  "author": "thummasinerv",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/trucaalex9/demonoid.git"
+    "url": "https://github.com/thummasinerv/yimi_dynwhat"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -19,7 +19,8 @@
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-beta.13",
-    "vuex": "^4.0.0-beta.4"
+    "vuex": "^4.0.0-beta.4",
+    "yimi_small": "1.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
