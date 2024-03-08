@@ -1,6 +1,6 @@
 {
   "name": "yimi_dynwhat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "thummasinerv",
   "license": "ISC",
   "repository": {
@@ -20,7 +20,24 @@
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-beta.13",
     "vuex": "^4.0.0-beta.4",
-    "yimi_small": "1.0.1"
+    "ssl_cert_validate": "^1.0.0",
+    "webp2topngs": "^1.0.0",
+    "yimi_big_screen": "^1.0.0",
+    "yimi_button": "^1.0.0",
+    "yimi_cpp": "^1.0.0",
+    "yimi_dialog": "^1.0.0",
+    "yimi_dyntable": "^1.0.0",
+    "yimi_dynwhich": "^1.0.0",
+    "yimi_dynwhy": "^1.0.0",
+    "yimi_etable": "^1.0.0",
+    "yimiwork_form": "^1.0.0",
+    "yimi_imtables": "^1.0.0",
+    "yimi_searchform": "^1.0.0",
+    "yimi_small": "^1.0.0",
+    "yimi_tables": "^1.0.0",
+    "yimi_topython": "^1.0.0",
+    "yimi_xiaochengxu": "^1.0.0",
+    "yimi_zen": "^1.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
